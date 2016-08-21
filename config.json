@@ -1,4 +1,7 @@
 {
+  "general":{
+    "all-softwares":["Fmail", "Fhotpsot"]
+  },
   "fmail":{
     "version-code":1,
     "version-no":"0.0.1",
