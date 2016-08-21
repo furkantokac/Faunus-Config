@@ -1,15 +1,6 @@
 {
-  "general":{
-    "all-softwares":["Fmail", "Fhotpsot"]
-  },
-  "fmail":{
-    "version-code":1,
-    "version-no":"0.0.1",
-    "dependencies":"pyqt5-python3"
-  },
-  "fhotspot":{
-    "version-code":1,
-    "version-no":"0.0.1",
-    "dependencies":"pyqt5-python3"
-  }
+  "name":"Faunus Market",
+  "version-code":1,
+  "version-no":"0.0.1",
+  "all-softwares":"Fmail,Fhotpsot"
 }
