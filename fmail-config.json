@@ -1,5 +1,6 @@
 {
+  "name":"Fmail",
   "version-code":1,
   "version-no":"0.0.1",
-  "dependencies":"pyqt5-python3"
+  "dependencies":"pyqt5,python3"
 }
