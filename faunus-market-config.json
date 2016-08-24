@@ -2,6 +2,9 @@
   "name":"Faunus Market",
   "version-code":1,
   "version-no":"0.0.1",
-  "all-softwares":"Fmail,0.0.1,
-                   Fhotpsot,0.0.1"
+  "all-softwares":"
+                  Fmail,0.0.1,
+                  Fhotpsot,0.0.1,
+                  Fchat,0.0.1
+                  "
 }
