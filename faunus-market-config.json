@@ -1,10 +1,41 @@
 {
-  "name":["Faunus Market"],
-  "version-code":[1],
-  "version-no":["0.0.1"],
-  "all-softwares":["Fmail","Fhotspot","Fchat","Fgame"],
-  "Fmail":["Fmail","0.0.1","0.0.2","You can check your mails."],
-  "Fhotspot":["Fhotspot","0.0.1","0.0.5","You can use hotspot."],
-  "Fchat":["Fchat","0.0.1","0.0.3","You can chat people easly."],
-  "Fgame":["Fgame","0.0.1","0.0.4","You can play game.."]
+    "Fchat": [
+        "Fchat",
+        "0.0.1",
+        "0.0.3",
+        "You can chat people easly."
+    ],
+    "Fgame": [
+        "Fgame",
+        "0.0.1",
+        "0.0.4",
+        "You can play game.."
+    ],
+    "Fhotspot": [
+        "Fhotspot",
+        "0.0.1",
+        "0.0.5",
+        "You can use hotspot."
+    ],
+    "Fmail": [
+        "Fmail",
+        "0.0.1",
+        "0.0.2",
+        "You can check your mails."
+    ],
+    "all-softwares": [
+        "Fmail",
+        "Fhotspot",
+        "Fchat",
+        "Fgame"
+    ],
+    "name": [
+        "Faunus Market"
+    ],
+    "version-code": [
+        1
+    ],
+    "version-no": [
+        "0.0.1"
+    ]
 }
