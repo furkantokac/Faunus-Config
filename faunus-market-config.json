@@ -22,6 +22,19 @@
         "Fhotspot",
         "Fchat"
     ],
+    "all-dependencies": [
+        "windows-python3",
+        "windows-pyqt5" 
+    ],
+    "windows-python3": [
+        "https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe"
+    ],
+    "windows-pyqt5": [
+        ""
+    ],
+    "debian-pyqt5": [
+        "sudo apt-get install pyqt-5"
+    ],
     "name": [
         "Faunus Market"
     ],
