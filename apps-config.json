@@ -7,6 +7,14 @@
         "",
         "https://github.com/furkantokac/fchat/archive/master.zip"
     ],
+    "Fgame": [
+        "Fgame",
+        "0.0.1",
+        "0.0.2",
+        "Play lan games.",
+        "",
+        ""
+    ],
     "Fhotspot": [
         "Fhotspot",
         "0.0.1",
@@ -26,7 +34,8 @@
     "all-softwares": [
         "Fmail",
         "Fhotspot",
-        "Fchat"
+        "Fchat",
+        "Fgame"
     ],
     "all-dependencies": [
         "windows-python3",
