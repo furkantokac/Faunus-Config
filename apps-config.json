@@ -35,16 +35,7 @@
         "Fmail",
         "Fhotspot",
         "Fchat",
-        "Fgame",
-        "Cagrinin Hesap Makinesi"
-    ],
-    "Cagrinin Hesap Makinesi": [
-        "Cagrinin Hesap Makinesi",
-        "0.0.1",
-        "0.0.2",
-        "Manyak bir program.",
-        "",
-        "https://raw.github.com/furkantokac/Fmail/master/dist/fmail-latest.fc"
+        "Fgame"
     ],
     "all-dependencies": [
         "windows-python3",
